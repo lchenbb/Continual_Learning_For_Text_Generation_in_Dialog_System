@@ -1,0 +1,20 @@
+# Ignore all check point
+*.pt
+
+# Ignore all resource
+**/resource
+
+# Ignore all examplars
+**/examplars
+
+# Ignore all models
+**/checkpoints
+
+# Ignore all pycache
+__pycache__
+
+# Ignore all shell script other than run.sh
+run_*.sh
+
+# Ignore testing scripts
+test_*.py

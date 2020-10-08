@@ -1,0 +1,22 @@
+***** DATA INFO *****
+Using 100.0% of training data
+BATCH SIZE: 128
+Train: 43812 turns
+Valid: 5905 turns
+Test: 5916 turns
+# of batches: Train 342 Valid 46 Test 46
+*************************
+
+Using deep version with 1 layer
+Number of layer is 1
+
+***** MODEL INFO *****
+MODEL TYPE: lm
+MODEL PATH: ./experiments/domain2/1111/exemplar_ewc_loss_250_0.5_300000.0/lm/model/exemplar_ewc_loss_250_0.5_300000.0.pt
+SIZE OF HIDDEN: 128
+# of LAYER: 1
+SAMPLE/BEAM SIZE: 1
+*************************
+
+Current task: Attraction has batches: {'train': 52, 'valid': 7}
+Task Attraction Epoch 0 (n_layer 1)
