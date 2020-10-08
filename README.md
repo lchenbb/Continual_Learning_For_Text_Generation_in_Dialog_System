@@ -1,8 +1,14 @@
-# Continual Learning for Natural Language Generation
+# Continual Learning for Natural Language Generation in Task-oriented Dialog Systems
 
-## Getting started
+## Introduction
 
-The folder contains the dataset, source code and configurations to reproduce our results.
+This repo is the implementation of paper [Continual Learning for Natural Language Generation in Task-oriented Dialog Systems](https://arxiv.org/pdf/2010.00910.pdf) on *Findings of ACL: EMNLP 2020*. In this paper, we propose a exemplar-replay and regularization based technique to mitigate catastrophic forgetting and enhance continual learning for language generation in task oriented dialog system.
+
+Authors:
+
+Fei Mi, Liangwei Chen, Mengjie Zhao, Minlie Huang, Faltings Boi.
+
+
 
 
 ### Prerequisites
